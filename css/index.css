@@ -442,6 +442,13 @@ p {
 
 /********************* our_end ****************/
 /********************* related ****************/
+.imgresponsive {
+    width: 80% !important;
+    height: 45vh;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
 #related {
     padding-top: 40px;
     padding-bottom: 40px;
