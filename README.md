@@ -1,5 +1,5 @@
 # Manchester-United-Azerbaycan. 
-This a functional fan page for Manchester United Supporters which from Azerbaijan.In this site you can see club history, trophies won, historical games and other interesting details and info.You can also buy club t-shirt and club`s jerseys.
+This a functional fan page for Manchester United Supporters which from Azerbaijan.In this site you can see club history, trophies won, historical games and other interesting details and info.You can also buy club t-shirt and club`s jerseys.. 
 
 Netlify-link:
 https://manchesterunitedazerbaijan.netlify.app
